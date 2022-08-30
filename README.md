@@ -1,1 +1,1 @@
-This repo goes through basics of python
+# This repo goes through basics of python
